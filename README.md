@@ -1,5 +1,8 @@
 # Apresentação Java
 
+<img width="306" height="164" alt="image" src="https://github.com/user-attachments/assets/0723f1c8-0722-4640-b8da-df2461023ae6" />
+
+
 ## Parte 1 - Histórico e Evolução do Java
 
 ### 1.1 Criação do Java e seus criadores
@@ -46,7 +49,8 @@ Impacto na programação moderna:
 - Desvantagens:
   - Versão completa (Ultimate) é paga.
   - Pode consumir mais memória em máquinas mais antigas.
-- Print: inserir print da tela principal do IntelliJ IDEA.
+  <img width="2400" height="1478" alt="image" src="https://github.com/user-attachments/assets/bc780ba7-c1b9-462f-99ed-ddcd9fd36853" />
+
 
 ### 2.2 Eclipse
 - Site: https://www.eclipse.org/
@@ -58,7 +62,8 @@ Impacto na programação moderna:
 - Desvantagens:
   - Interface menos moderna que outras IDEs.
   - Às vezes pode ser mais lento e complexo de configurar.
-- Print: inserir print da tela principal do Eclipse.
+  <img width="797" height="497" alt="image" src="https://github.com/user-attachments/assets/a84be71e-3672-4bf6-bf1c-a63b6bfca4f6" />
+
 
 ### 2.3 NetBeans
 - Site: https://netbeans.apache.org/
@@ -70,7 +75,8 @@ Impacto na programação moderna:
 - Desvantagens:
   - Menos plugins e extensões comparado a Eclipse e IntelliJ.
   - Performance e usabilidade podem ser inferiores em projetos muito grandes.
-- Print: inserir print da tela principal do NetBeans.
+  <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/b84fb863-5a38-4383-aacd-e108df5fc260" />
+
 
 ### 2.4 Qual IDE escolheria para estudar?
 Eu escolheria o IntelliJ IDEA (versão Community ou Ultimate, se disponível) porque oferece a melhor experiência de produtividade, revisão de código e suporte a frameworks modernos. Para estudo, sua capacidade de sugerir correções, navegação rápida e integração com ferramentas Java facilita o aprendizado e o desenvolvimento contínuo.
